@@ -3,7 +3,7 @@ I speak at remote or in-person events around Europe about various topics related
 [Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event!
 
 ## Planned talks:
-- 2023 / 09 / 07: Keynote about Generative AI at [AI World(]https://www.ai-world-barcelona.com/)
+- 2023 / 09 / 07: Keynote about Generative AI at [AI World](https://www.ai-world-barcelona.com/)
 
 ## Past talks:
 - 2023 / 06 / 21: "What did you say? Automatic Speech Recognition in a World of Whisper" at [ML Conference Munich](https://mlconference.ai/munich/)
