@@ -20,6 +20,9 @@ I love sharing knowledge in written or spoken form. I speak at remote or in-pers
 - 2020 / 04 / 29: "Prediction of schizophrenia with Ngram Tracing and Word Graph Analysis – an exploratory approach" at University of Potsdam poster day
 - 2020 / 01 / 30: "Prediction of schizophrenia with Ngram Tracing and Word Graph Analysis – an exploratory approach" at conference [CLIN30](https://clin30.sites.uu.nl/) in Utrecht
 
+## Online Courses:
+O'Reilly [Natural Language Processing Fundamentals: Techniques, Tools, and Applications](https://www.oreilly.com/videos/natural-language-processing/0790145481825/)
+
 ## Articles:
 - 2023 / 12 / 22: 🇩🇪 "Das KI-Jahr im Jahresrückblick" ( [entwickler.de](https://entwickler.de/machine-learning/jahresruckblick-ki-2023-001))
 - 2023 / 07 / 24: 🇬🇧 "Navigating Ethical Considerations: Developing and Deploying Large Language Models (LLMs) Responsibly" ([Medium](https://medium.com/p/d44f3fcde626))
