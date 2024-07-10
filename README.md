@@ -1,6 +1,6 @@
-# Public Speaking
+# Public Speaking, articles & online courses
 I love sharing knowledge in written or spoken form. I speak at remote or in-person events around Europe about various topics related to machine learning, artificial intelligence, ethical AI and explainable AI.
-[Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event or writing an article!
+[Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event or writing an article! See below for a list of past and planned talks, articles and online courses I've published.
 
 ## Planned talks:
 - 2024 / 07 / 24: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) workshop by Google with Wavemakers ([LinkedIn event](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/))
