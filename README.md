@@ -3,9 +3,13 @@ I love sharing knowledge in written or spoken form. I speak at remote or in-pers
 [Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event or writing an article! See below for a list of past and planned talks, articles and online courses I've published.
 
 ## Planned talks:
-- 2024 / 07 / 24: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) workshop by Google with Wavemakers ([LinkedIn event](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/))
+- 2024 / 10 / 24: "Beyond LLM-Washing: When other ML models are simply better" at [AI for the rest of us London](https://aifortherestofus.live/speaker-lisa-becker)
+- 2024 / 11 / 05: "LLMs made easy" live webinar with O'Reilly (link follows)
+- 2024 / 12 / 02: "Working Locally with Open Source LLMs" live webinar with O'Reilly(link follows)
+
 
 ## Past talks:
+- 2024 / 07 / 24: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) workshop by Google with Wavemakers ([LinkedIn event](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/))
 - 2023 / 06 / 21: "What did you say? Automatic Speech Recognition in a World of Whisper" at [ML Conference Munich](https://mlconference.ai/munich/)
 - 2023 / 03 / 28: "What did you say? Automatic Speech Recognition in a World of Whisper" at [Tech Summit Europe](https://ts.zohobackstage.eu/TechSummitEurope#/?lang=en)
 - 2022 / 11 / 28: "The importance and pitfalls of pseudonymization" at [ML Conference Berlin](https://mlconference.ai/berlin/)
