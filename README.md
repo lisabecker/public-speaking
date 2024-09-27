@@ -6,9 +6,9 @@ I love sharing knowledge in written or spoken form. I speak at remote or in-pers
 - 2024 / 10 / 03: Panel discussion "[Responsible AI](https://www.linkedin.com/events/responsibleai-mitigatetheriskof7242939941754744832/): Mitigate the risk of unintended impacts with AI"
 - 2024 / 10 / 15: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) in-person workshop by Google with PyLadies Berlin ([sign-up](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/](https://www.meetup.com/de-DE/pyladies-berlin/events/303489523/)))
 - 2024 / 10 / 24: "Beyond LLM-Washing: When other ML models are simply better" at [AI for the rest of us](https://aifortherestofus.live/speaker-lisa-becker) London
-- 2024 / 11 / 05: ["LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
+- 2024 / 11 / 05: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
 - 2024 / 12 / 02: ["Working Locally with Open Source LLMs"](https://learning.oreilly.com/live-events/working-locally-with-open-source-llms/0642572007554/) live webinar with O'Reilly (running LLMs and building a RAG locally with llama.cpp)
-
+- 2024 / 12 / TBD: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) virtual workshop by Google at PyLadiesCon
 
 ## Past talks:
 - 2024 / 07 / 24: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) workshop by Google with Wavemakers ([LinkedIn event](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/))
