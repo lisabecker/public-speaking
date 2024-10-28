@@ -3,14 +3,13 @@ I love sharing knowledge in written or spoken form. I speak at remote or in-pers
 [Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event or writing an article! See below for a list of past and planned talks, articles and online courses I've published.
 
 ## Planned talks:
-- 2024 / 10 / 03: Panel discussion "[Responsible AI](https://www.linkedin.com/events/responsibleai-mitigatetheriskof7242939941754744832/): Mitigate the risk of unintended impacts with AI"
-- 2024 / 10 / 15: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) in-person workshop by Google with PyLadies Berlin ([sign-up](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/](https://www.meetup.com/de-DE/pyladies-berlin/events/303489523/)))
-- 2024 / 10 / 24: "Beyond LLM-Washing: When other ML models are simply better" at [AI for the rest of us](https://aifortherestofus.live/speaker-lisa-becker) London
 - 2024 / 11 / 05: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
-- 2024 / 12 / 02: ["Working Locally with Open Source LLMs"](https://learning.oreilly.com/live-events/working-locally-with-open-source-llms/0642572007554/) live webinar with O'Reilly (running LLMs and building a RAG locally with llama.cpp)
-- 2024 / 12 / TBD: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) virtual workshop by Google at PyLadiesCon
+- 2024 / 12 / 07: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) virtual workshop by Google at PyLadiesCon
 
 ## Past talks:
+- 2024 / 10 / 24: "Beyond LLM-Washing: When other ML models are simply better" at [AI for the rest of us](https://aifortherestofus.live/speaker-lisa-becker) London
+- 2024 / 10 / 15: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) in-person workshop by Google with PyLadies Berlin ([sign-up](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/](https://www.meetup.com/de-DE/pyladies-berlin/events/303489523/)))
+- 2024 / 10 / 03: Panel discussion "[Responsible AI](https://www.linkedin.com/events/responsibleai-mitigatetheriskof7242939941754744832/): Mitigate the risk of unintended impacts with AI"
 - 2024 / 07 / 24: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) workshop by Google with Wavemakers ([LinkedIn event](https://www.linkedin.com/events/empowermentandself-advocacy-iam7214922182609575937/comments/))
 - 2023 / 06 / 21: "What did you say? Automatic Speech Recognition in a World of Whisper" at [ML Conference Munich](https://mlconference.ai/munich/)
 - 2023 / 03 / 28: "What did you say? Automatic Speech Recognition in a World of Whisper" at [Tech Summit Europe](https://ts.zohobackstage.eu/TechSummitEurope#/?lang=en)
@@ -30,7 +29,7 @@ I love sharing knowledge in written or spoken form. I speak at remote or in-pers
 O'Reilly [Natural Language Processing Fundamentals: Techniques, Tools, and Applications](https://www.oreilly.com/videos/natural-language-processing/0790145481825/) (June 2024)
 
 ## Articles:
-- 2023 / 12 / 22: 🇩🇪 "Das KI-Jahr im Jahresrückblick" ( [entwickler.de](https://entwickler.de/machine-learning/jahresruckblick-ki-2023-001))
+- 2023 / 12 / 22: 🇩🇪 "Das KI-Jahr im Jahresrückblick" ([entwickler.de](https://entwickler.de/machine-learning/jahresruckblick-ki-2023-001))
 - 2023 / 07 / 24: 🇬🇧 "Navigating Ethical Considerations: Developing and Deploying Large Language Models (LLMs) Responsibly" ([Medium](https://medium.com/p/d44f3fcde626))
 - 2023 / 07 / 04: 🇬🇧 "Speak Up! How to label your way to accurate Automatic Speech Recognition (ASR)" ([Medium](https://medium.com/p/81c1b3db2195))
 - 2023 / 01 / 01: 🇩🇪 "Was macht eigentlich eine Machine Learning Consultancy?" ([entwickler.de](https://entwickler.de/machine-learning/ml-consultancy-beraterin))
