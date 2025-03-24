@@ -2,10 +2,7 @@
 I love sharing knowledge in written or spoken form. I speak at remote or in-person events around Europe about various topics related to machine learning, artificial intelligence, ethical AI and explainable AI.
 [Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event or writing an article! See below for a list of past and planned talks, articles and online courses I've published.
 
-## Planned talks:
-🦗
-
-## Past talks:
+## Talks:
 - 2024 / 12 / 07: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) virtual workshop by Google at [PyLadiesCon](https://pretalx.com/pyladiescon-2024/talk/JAGYZJ/)
 - 2024 / 11 / 05: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
 - 2024 / 10 / 24: "Beyond LLM-Washing: When other ML models are simply better" at [AI for the rest of us](https://aifortherestofus.live/speaker-lisa-becker) London
@@ -27,13 +24,20 @@ I love sharing knowledge in written or spoken form. I speak at remote or in-pers
 - 2020 / 01 / 30: "Prediction of schizophrenia with Ngram Tracing and Word Graph Analysis – an exploratory approach" at conference [CLIN30](https://clin30.sites.uu.nl/) in Utrecht
 
 ## Online Courses:
-O'Reilly [Natural Language Processing Fundamentals: Techniques, Tools, and Applications](https://www.oreilly.com/videos/natural-language-processing/0790145481825/) (June 2024)
+- O'Reilly [Natural Language Processing Fundamentals: Techniques, Tools, and Applications](https://www.oreilly.com/videos/natural-language-processing/0790145481825/) (released June 2024)
+- O'Reilly [Local LLMs Made Easy (UI-based frameworks)](https://www.oreilly.com/live-events/local-llms-made-easy/0642572007549/) (regular webinar)
+- O'Reilly [Working Locally with Open Source LLMs (terminal)
+](https://www.oreilly.com/live-events/working-locally-with-open-source-llms/0642572007554/) (regular webinar)
 
 ## Articles:
+- 2025 / 03 / 24: 🇩🇪 "Von Daten zu Dates: Machine Learning in Dating Apps" ([entwickler.de](https://entwickler.de/machine-learning/von-daten-zu-dates-machine-learning-in-dating-apps))
 - 2023 / 12 / 22: 🇩🇪 "Das KI-Jahr im Jahresrückblick" ([entwickler.de](https://entwickler.de/machine-learning/jahresruckblick-ki-2023-001))
 - 2023 / 07 / 24: 🇬🇧 "Navigating Ethical Considerations: Developing and Deploying Large Language Models (LLMs) Responsibly" ([Medium](https://medium.com/p/d44f3fcde626))
 - 2023 / 07 / 04: 🇬🇧 "Speak Up! How to label your way to accurate Automatic Speech Recognition (ASR)" ([Medium](https://medium.com/p/81c1b3db2195))
 - 2023 / 01 / 01: 🇩🇪 "Was macht eigentlich eine Machine Learning Consultancy?" ([entwickler.de](https://entwickler.de/machine-learning/ml-consultancy-beraterin))
 - 2021 / 08 / 25: 🇬🇧 "The intelligent illustrator: A text-guided image-to-image translator based on generative adversarial networks" ([Medium](https://medium.com/p/40fd566c5b93))
 - 2021 / 07 / 20: 🇬🇧 "From intern to ML6 Agent" ([Medium](https://medium.com/p/10ce1de1d181))
-- 2021 / 06 / 21: 🇬🇧 [Spotlight interview](https://womendotcode.be/blog/spotlight-interview-13-lisa-becker-machine-learning-engineer/) with women.code(be) 
+- 2021 / 06 / 21: 🇬🇧 [Spotlight interview](https://womendotcode.be/blog/spotlight-interview-13-lisa-becker-machine-learning-engineer/) with women.code(be)
+
+## Podcasts:
+- 2025 / 02 / 13: 🇬🇧 "Redefining AI: A Vision for the Future" ([Spotify](https://open.spotify.com/episode/7pTKWa4PSEXa12JBUd6QbZ?si=uQKT7a2dQ3yHl_0fXto22w))
