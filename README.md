@@ -2,7 +2,13 @@
 I love sharing knowledge in written or spoken form. I speak at remote or in-person events around Europe about various topics related to machine learning, artificial intelligence, ethical AI and explainable AI.
 [Email me](beckerlisa93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/becker-lisa) if you're interested in me speaking at your event or writing an article! See below for a list of past and planned talks, articles and online courses I've published.
 
-## Talks:
+## Talks & webinars:
+- 2025 / 10 / 30: ["Working Locally with Open Source LLMs"](https://learning.oreilly.com/live-events/working-locally-with-open-source-llms/0642572007554/) live webinar with O'Reilly (leveraging LLMs with Ollama in the terminal)
+- 2025 / 09 / 24: ["Working Locally with Open Source LLMs"](https://learning.oreilly.com/live-events/working-locally-with-open-source-llms/0642572007554/) live webinar with O'Reilly (leveraging LLMs with Ollama in the terminal)
+- 2025 / 09 / 22: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
+- 2025 / 08 / 25: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
+- 2025 / 06 / 23: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
+- 2025 / 06 / 23: ["Working Locally with Open Source LLMs"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (leveraging LLMs with Ollama in the terminal)
 - 2024 / 12 / 07: [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable) virtual workshop by Google at [PyLadiesCon](https://pretalx.com/pyladiescon-2024/talk/JAGYZJ/)
 - 2024 / 11 / 05: ["Local LLMs made easy"](https://learning.oreilly.com/live-events/local-llms-made-easy/0642572007549/) live webinar with O'Reilly (using UI-based frameworks like Jan AI and GPT4all)
 - 2024 / 10 / 24: "Beyond LLM-Washing: When other ML models are simply better" at [AI for the rest of us](https://aifortherestofus.live/speaker-lisa-becker) London
